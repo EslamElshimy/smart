@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "country_recycler_height">500dp</dimen>
+    <dimen name = "txt_size">32sp</dimen>
+    <dimen name = "lang_txt_size">28sp</dimen>
+    <dimen name = "txt_header_size">34sp</dimen>
+    <dimen name = "margint">16dp</dimen>
+    <dimen name = "txt_head_size">44sp</dimen>
+    <dimen name = "forgot_txt_size">20sp</dimen>
+    <dimen name = "height_of_social_icons">100dp</dimen>
+    <dimen name = "margin">28dp</dimen>
+    <dimen name = "home_card_height">160dp</dimen>
+    <dimen name = "grid_txt_size">24sp</dimen>
+    <dimen name = "grid_txt2_size">22sp</dimen>
+    <dimen name = "request_card_margin">16dp</dimen>
+    <dimen name = "txt_tab_size">18sp</dimen>
+    <dimen name = "bottom_tab_icon_height">35dp</dimen>
+    <dimen name = "constraint_margin">32dp</dimen>
+    <dimen name = "tab_txt_size">18sp</dimen>
+    <dimen name = "dot_size">40px</dimen>
+    <dimen name = "Schedule_Result_margin">16dp</dimen>
+    <dimen name = "dot_width_size">20px</dimen>
+    <dimen name = "dot_height_size">10px</dimen>
+    <dimen name = "current_dot_size">40px</dimen>
+    <dimen name = "current_dot_width_size">20px</dimen>
+    <dimen name = "current_dot_height_size">10px</dimen>
+    <dimen name = "time_txt_size">21sp</dimen>
+    <dimen name = "profile_image_size">80dp</dimen>
+    <dimen name = "my_profile_image_size">150dp</dimen>
+    <dimen name = "button_padding">10dp</dimen>
+    <dimen name = "trust_txt_size">16sp</dimen>
+    <dimen name = "margin_result_card">16dp</dimen>
+    <dimen name = "card_reslut_text">18sp</dimen>
+    <dimen name = "category_icon_Size">40dp</dimen>
+    <dimen name = "gallery_photo_height">350dp</dimen>
+    <dimen name = "button_height_size">50dp</dimen>
+    <dimen name = "camera_icon_size">34dp</dimen>
+    <dimen name = "margin_login_size">132dp</dimen>
+    <dimen name = "mobile_login_size">64dp</dimen>
+    <dimen name = "margin_txt">6dp</dimen>
+    <dimen name = "margin_bottom_size">100dp</dimen>
+    <dimen name = "margin_button_bottom_size">80dp</dimen>
+    <dimen name = "margin_txt_bottom_size">30dp</dimen>
+    <dimen name = "margin_login2_size">80dp</dimen>
+    <dimen name = "mobile_login2_size">70dp</dimen>
+    <dimen name = "margin_bottom2_size">70dp</dimen>
+    <dimen name = "margin_button_bottom2_size">50dp</dimen>
+    <dimen name = "height_of_message_txt">360dp</dimen>
+    <dimen name = "height_of_call_icon">50dp</dimen>
+    <dimen name = "Button_margin">16dp</dimen>
+    <dimen name = "height_of_descripition_txt">210dp</dimen>
+    <dimen name = "height_of_home_slider">300dp</dimen>
+    <dimen name = "height_of_home_grid">500dp</dimen>
+    <dimen name = "promotion_image_height">200dp</dimen>
+    <dimen name = "card_txt_width">150dp</dimen>
+    <dimen name = "height_button">70dp</dimen>
+    <dimen name = "arrow_icon_size">20dp</dimen>
+    <dimen name = "view_height">5dp</dimen>
+    <dimen name = "home_Recycle_height">150dp</dimen>
+    <dimen name = "image_home_Recycle_height">90dp</dimen>
+    <dimen name = "tab_text_size">24sp</dimen>
+    <dimen name = "phone_pic_Size">500dp</dimen>
+    <dimen name = "margin_phone_pic_Size">180dp</dimen>
+    <dimen name = "register_phone_pic_Size">350dp</dimen>
+    <dimen name = "home_recycler_item_width_Size">250dp</dimen>
+    <dimen name = "home_recycler_item_height_Size">380dp</dimen>
+    <dimen name = "home_recycler_circle_image_size">80dp</dimen>
+    <dimen name = "card_txt_Size">20sp</dimen>
+    <dimen name = "small_txt">18sp</dimen>
+
+    <dimen name = "icon_size">30dp</dimen>
+    <dimen name = "icon2_size">40dp</dimen>
+    <dimen name = "tab_height_size">40dp</dimen>
+    <dimen name = "height_card_small">220dp</dimen>
+    <dimen name = "fovorat_icon_size">60dp</dimen>
+
+
+
+    <dimen name = "Down_Arrow_size">25dp</dimen>
+
+
+    <dimen name = "margin_profile_love">15dp</dimen>
+
+
+    <dimen name = "height_grid_wishList">300dp</dimen>
+
+
+    <dimen name = "premium_height">110dp</dimen>
+    <dimen name = "provider_Recycler">450dp</dimen>
+
+    <dimen name = "hello_recycler_item_width_Size">400dp</dimen>
+
+    <dimen name = "menu_vertical_height">1230dp</dimen>
+    <dimen name = "icon_size_height">25dp</dimen>
+
+
+</resources>

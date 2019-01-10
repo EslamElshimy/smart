@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#E56301</color>
+    <color name="tab_border">#a7a7aa</color>
+    <color name="tab_background">#f6f6f7</color>
+    <color name="buttoncolor">#432bc0</color>
+    <color name="graycolor">#D7DDDf</color>
+    <color name="whitecolor">#ffffff</color>
+    <color name="redcolor">#ec2941</color>
+    <color name="labanycolor">#0095E7</color>
+    <color name="blakcolor">#000000</color>
+    <color name="grycolor">#FAFAFA</color>
+    <color name="theme_color_primary">#1c9359</color>
+    <color name="theme_color_primary_light">#3aaf75</color>
+    <color name="theme_color_accent">#084e43</color>
+    <color name="bluf">#8080ff</color>
+    <color name="appBarColor">#A16EC2</color>
+    <color name="textcolor">#81949c</color>
+    <color name="blue_purple">#5a1ab9</color>
+    <color name="grid_txt">#432bc0</color>
+    <color name="bright_cyan">#4ddefd</color>
+    <color name="edittext_color">#b7c4ca</color>
+    <color name="verficationtext_color">#515F65</color>
+    <color name="gridview_background_color">#f7fbfc</color>
+    <color name="sort_text_color">#47565c</color>
+    <color name="view_color">#dee7ec</color>
+    <color name="golden_color">#EFCD01</color>
+    <color name="green_color">#1FB938</color>
+    <color name="profile_background_color">#F7FBFC</color>
+    <color name="app_color">#E56301</color>
+    <color name="app_color_dark">#E65100</color>
+    <color name="backgroundRos">#EAECEE</color>
+    <color name="offWhite">#FDFDFD</color>
+    <color name="wallet_color">#F5B223</color>
+    <color name="wallet_color_dark">#FAD678</color>
+
+
+    <color name="gray_unselected">#B7B7B7</color>
+    <color name="gray_selected">#6E6E6E</color>
+
+</resources>

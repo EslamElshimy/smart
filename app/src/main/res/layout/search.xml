@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LayoutHome_container2"
+    android:orientation="vertical">
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/whitecolor"
+        >
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_weight="1"
+            android:background="@color/app_color"
+            app:layout_scrollFlags="scroll|enterAlways"
+            >
+
+
+
+            <EditText
+                android:id="@+id/Search_txt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/constraint_margin"
+                android:layout_marginLeft="@dimen/constraint_margin"
+                android:layout_marginRight="@dimen/constraint_margin"
+                android:layout_marginStart="@dimen/constraint_margin"
+                android:layout_marginTop="@dimen/margin_txt"
+                android:layout_marginBottom="@dimen/margin_txt"
+                android:textSize="@dimen/grid_txt_size"
+                android:padding="8dp"
+                android:singleLine="true"
+                android:text=""
+                android:hint="@string/search"
+                android:maxLines="1"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@drawable/edit_txt_shap"
+                />
+
+
+
+
+        </android.support.v7.widget.Toolbar>
+
+
+
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/Recycler_category"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.153">
+
+    </android.support.v7.widget.RecyclerView>
+</LinearLayout>

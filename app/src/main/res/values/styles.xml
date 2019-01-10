@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/app_color</item>
+        <item name="colorPrimaryDark">@color/app_color_dark</item>
+        <item name="colorAccent">@color/app_color</item>
+    </style>
+
+    <style name="MyCustomTabText" parent="Base.Widget.Design.TabLayout">
+        <item name="android:textSize">@dimen/tab_txt_size</item>
+        <item name="android:textColor">@color/textcolor</item>
+
+    </style>
+
+</resources>

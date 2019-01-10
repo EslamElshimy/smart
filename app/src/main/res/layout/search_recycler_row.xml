@@ -1,0 +1,44 @@
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/card_view"
+    android:elevation="5dp"
+    app:cardElevation="5dp"
+    app:cardCornerRadius="10dp"
+    android:layout_marginTop="@dimen/margin"
+    android:layout_marginLeft="@dimen/margin"
+    android:layout_marginRight="@dimen/margin"
+    >
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:id="@+id/CitytName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_txt"
+        android:text="Eslam Elshimy"
+        android:textSize="@dimen/txt_size"
+        android:textColor="@color/labanycolor"
+
+        />
+    <TextView
+        android:id="@+id/Capital"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_txt"
+        android:text="Eslam Elshimy"
+        android:textSize="@dimen/txt_size"
+
+        />
+</LinearLayout>
+
+
+</android.support.v7.widget.CardView>
+
+
